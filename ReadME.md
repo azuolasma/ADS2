@@ -6,7 +6,7 @@ Archyve taip pat yra straipsnis, kuriame įrodoma, kad N dydžio trikampėje len
 
 Taip pat, sprendimas nėra efektyvus.
 
-Alternatyvus ir daug efektyvesnis sprendimo būdas būtų sudaryti 2 masyvus: vieną kiekvienam įstrižainės tipui, ir taip tikrinti, kur galime padėti karalienę. Šis sprendimo būdas "rankiniu" būdū pakeičia kiekvieną trikampio poziciją, pradedant 0 ir +1 jei pozicija "atakuojama".
+Alternatyvus ir daug efektyvesnis sprendimo būdas būtų sudaryti 2 masyvus: vieną kiekvienam įstrižainės tipui, ir taip tikrinti, kur galime padėti karalienę. Šis sprendimo būdas "rankiniu" būdu pakeičia kiekvieną trikampio poziciją, pradedant 0 ir +1 jei pozicija "atakuojama".
 
 ## Failai
 
